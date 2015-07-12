@@ -1,0 +1,43 @@
+.float-banner
+{
+	top: 0px;
+	position: absolute;
+	display: none;
+}
+
+.float-banner .left
+{
+	top: 32px;
+	left: 0px;
+	position: absolute;
+}
+
+.float-banner .left img
+{
+	float: right;
+}
+
+.float-banner .right
+{
+	top: 32px;
+	right: 0px;
+	position: absolute;
+}
+
+.float-banner .right img
+{
+	float: left;
+}
+/*
+.float-banner .left
+{
+	width: 120px;
+}
+.float-banner .right
+{
+	width: 120px;
+}*/
+.float-banner
+{
+	width: 1224px;
+}
