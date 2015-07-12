@@ -1,2 +1,0 @@
-# CodeAdvertising
-Code nivo advertising
