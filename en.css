@@ -1,0 +1,61 @@
+*
+{
+	font-family: Arial;
+	font-size: 9pt;
+	color: #424242;
+	line-height: 22px;
+}
+
+.top-most
+{
+	font-family: "Myriad Pro" , Sans-Serif;
+}
+
+.top-most *
+{
+	font-family: "Myriad Pro" , Sans-Serif;
+}
+
+.top-most a
+{
+	font-family: "Myriad Pro";
+}
+
+.sub-hd1
+{
+	font-family: "Myriad Pro" , Sans-Serif;
+}
+
+.menu .main-menu .submenu ul li a
+{
+	font-family:Arial;
+}
+
+.lang
+{
+	width:24px;
+	background:url(../Imgs/Icons/kh.png) no-repeat center center;
+}
+
+/*------------------------------------------------------------*/
+@font-face
+{
+	font-family: HongHa;
+	src: url( "UVNHongHaHep_B.eot" ) /* EOT file for IE */;
+}
+@font-face
+{
+	font-family: HongHa;
+	src: url( "UVNHongHaHep_B.TTF" ) /* TTF file for CSS3 browsers */;
+}
+
+@font-face
+{
+	font-family: HongHa2;
+	src: url( "UVNHongHaHep_B.eot" ) /* EOT file for IE */;
+}
+@font-face
+{
+	font-family: HongHa2;
+	src: url( "UVNHongHaHep_B.TTF" ) /* TTF file for CSS3 browsers */;
+}
